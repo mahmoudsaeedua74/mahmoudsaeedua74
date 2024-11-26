@@ -1,4 +1,4 @@
-# Hey there, it's a pleasure to meet you! 👋
+# Welcome to my corner of the web ! 👋
 
 ## About Me
 I'm a **Frontend Web Developer** with a passion for creating dynamic and responsive web applications. I specialize in using **React**, **Next.js**, **Redux**, **JavaScript**, **Tailwind CSS**, and **Bootstrap** to transform ideas into interactive, user-friendly experiences. I love taking static designs and turning them into fully functional websites, all while constantly learning and exploring new technologies to enhance my skills.
@@ -29,9 +29,10 @@ I'm a **Frontend Web Developer** with a passion for creating dynamic and respons
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp; 
 </div>
-   Design & UI/UX: 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp; 
-
+#### Design & UI/UX:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp; Figma
+</div>
 
 
 
