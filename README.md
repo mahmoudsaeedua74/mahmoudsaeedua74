@@ -30,9 +30,8 @@ I'm a **Frontend Web Developer** with a passion for creating dynamic and respons
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp; 
 </div>
 #### Design & UI/UX:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp; Figma
-</div>
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) Figma
+
 
 
 
