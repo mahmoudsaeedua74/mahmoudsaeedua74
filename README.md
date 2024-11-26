@@ -8,26 +8,27 @@ I'm a **Frontend Web Developer** with a passion for creating dynamic and respons
 ### My Toolkit includes, but is not limited to:
 
 #### Languages:
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![SASS](https://img.icons8.com/ios/50/000000/sass.png) SASS
-- ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) JavaScript
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) HTML
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) CSS
+- ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white) SASS
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
 
 #### Frameworks/Libraries:
-- ![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) TypeScript
-- ![React](https://img.icons8.com/ios/50/000000/react-native.png) React
-- ![Next.js](https://img.icons8.com/ios/50/000000/next.js.png) Next.js
-- ![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png) Tailwind CSS
-- ![Bootstrap](https://img.icons8.com/ios/50/000000/bootstrap.png) Bootstrap
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) React
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) Next.js
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) Bootstrap
 
 #### Tools & Platforms:
-- ![Git](https://img.icons8.com/ios/50/000000/git.png) Git
-- ![npm](https://img.icons8.com/ios/50/000000/npm.png) npm
-- ![GitHub](https://img.icons8.com/ios/50/000000/github.png) GitHub
-- ![VSCode](https://img.icons8.com/ios/50/000000/visual-studio-code-2019.png) VSCode
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git
+- ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white) npm
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) GitHub
+- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) VSCode
 
 #### Design & UI/UX:
-- ![Figma](https://img.icons8.com/ios/50/000000/figma.png) Figma
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) Figma
+
 
 
 ## Continuous Learning
