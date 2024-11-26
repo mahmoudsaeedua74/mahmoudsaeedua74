@@ -28,7 +28,8 @@ I'm a **Frontend Web Developer** with a passion for creating dynamic and respons
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp; 
 </div>
- Design & UI/UX:
+
+#### Design & UI/UX:
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
 </div>
