@@ -8,26 +8,27 @@ I'm a **Frontend Web Developer** with a passion for creating dynamic and respons
 ### My Toolkit includes, but is not limited to:
 
 #### Languages:
-- HTML
-- CSS
-- SASS
-- JavaScript
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![SASS](https://img.icons8.com/ios/50/000000/sass.png) SASS
+- ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) JavaScript
 
 #### Frameworks/Libraries:
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
+- ![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) TypeScript
+- ![React](https://img.icons8.com/ios/50/000000/react-native.png) React
+- ![Next.js](https://img.icons8.com/ios/50/000000/next.js.png) Next.js
+- ![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png) Tailwind CSS
+- ![Bootstrap](https://img.icons8.com/ios/50/000000/bootstrap.png) Bootstrap
 
 #### Tools & Platforms:
-- Git
-- npm
-- GitHub
-- VSCode
+- ![Git](https://img.icons8.com/ios/50/000000/git.png) Git
+- ![npm](https://img.icons8.com/ios/50/000000/npm.png) npm
+- ![GitHub](https://img.icons8.com/ios/50/000000/github.png) GitHub
+- ![VSCode](https://img.icons8.com/ios/50/000000/visual-studio-code-2019.png) VSCode
 
 #### Design & UI/UX:
-- Figma
+- ![Figma](https://img.icons8.com/ios/50/000000/figma.png) Figma
+
 
 ## Continuous Learning
 In this ever-evolving field, I believe in the power of continuous learning and adaptation. I regularly dedicate time to exploring new technologies, participating in coding challenges, and attending online workshops. This commitment to growth ensures that I'm always equipped with the latest knowledge and best practices to tackle any project.
