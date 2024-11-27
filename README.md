@@ -1,4 +1,4 @@
-# Welcome to my corner of the web ! 👋
+# Welcome to my corner of the web !
 
 ## About Me
 I'm a **Frontend Web Developer** with a passion for creating dynamic and responsive web applications. I specialize in using **React**, **Next.js**, **Redux**, **JavaScript**, **Tailwind CSS**, and **Bootstrap** to transform ideas into interactive, user-friendly experiences. I love taking static designs and turning them into fully functional websites, all while constantly learning and exploring new technologies to enhance my skills.
